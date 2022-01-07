@@ -37,8 +37,6 @@ node seeder -i
 
 ## Demo
 
-The API is live at [eparts.io](https://eparts.io)
-
 Extensive documentation with examples [here](https://documenter.getpostman.com/view/17571014/UVXeqxe3)
 
 - Version: 1.0.0
