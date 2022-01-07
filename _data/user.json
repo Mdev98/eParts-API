@@ -1,0 +1,38 @@
+[
+    {
+        "fname" : "admin",
+        "lname" : "admin",
+        "email" : "admin@gmail.com",
+        "password" : "admin12"
+    },
+    {
+        "fname" : "Mbaye",
+        "lname" : "Lahat",
+        "email" : "lala@gmail.com",
+        "password" : "qwerty12"
+    },
+    {
+        "fname" : "Diop",
+        "lname" : "Mamour",
+        "email" : "mamour@gmail.com",
+        "password" : "qwerty12"
+    },
+    {
+        "fname" : "Dieng",
+        "lname" : "Bachir",
+        "email" : "bachir@gmail.com",
+        "password" : "qwerty12"
+    },
+    {
+        "fname" : "Mbengue",
+        "lname" : "Cheikh",
+        "email" : "cheikh@gmail.com",
+        "password" : "qwerty12"
+    },
+    {
+        "fname" : "Samb",
+        "lname" : "ibrahima",
+        "email" : "ibrahima@gmail.com",
+        "password" : "qwerty12"
+    }
+]

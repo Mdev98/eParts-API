@@ -1,0 +1,65 @@
+[
+    {
+        "make": "Ford",
+        "model": "Fusion",
+        "year": 2019,
+        "_id": "61d103d6199adcb5a038bc29"
+    },
+
+    {
+        "make": "Ford",
+        "model": "Granada",
+        "year": 2000,
+        "_id": "61d1042e199adcb5a038bc2b"
+    },
+
+    {
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2015,
+        "_id": "61d1044c199adcb5a038bc2d"
+    },
+
+    {
+        "make": "Ford",
+        "model": "Escape",
+        "year": 2019,
+        "_id": "61d10470199adcb5a038bc2f"
+    },
+
+    {
+        "make": "BMW",
+        "model": "X1",
+        "year": 2019,
+        "_id": "61d104c3199adcb5a038bc31"
+    },
+
+    {
+        "make": "BMW",
+        "model": "X2",
+        "year": 2017,
+        "_id": "61d107b19eee62803dcdfde6"
+    },
+
+    {
+        "make": "BMW",
+        "model": "X3",
+        "year": 2018,
+        "_id": "61d107d09eee62803dcdfde8"
+    },
+
+    {
+        "make": "BMW",
+        "model": "X4",
+        "year": 2017,
+        "_id": "61d104f0199adcb5a038bc37"
+    },
+
+    {
+        "make": "BMW",
+        "model": "X5",
+        "year": 2017,
+        "_id": "61d10516199adcb5a038bc39"
+    }
+
+]

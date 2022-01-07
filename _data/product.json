@@ -1,0 +1,123 @@
+[
+    {
+        "title" : "Special Mamour",
+        "price" : 100000,
+        "part_type" : "Mamour",
+        "sku" : "Mamour 1",
+        "brand" : "Mamour",
+        "part_number" : "Mamour",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d107b19eee62803dcdfde6"
+    },
+    {
+        "title" : "Rack and Pinion with Electric Power Steering 80-30104R",
+        "price" : 990,
+        "part_type" : "Rack and Pinion",
+        "sku" : "80-30104 R",
+        "brand" : "BAP",
+        "part_number" : "80-30104R",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d103d6199adcb5a038bc29"
+    },
+    {
+        "title" : "Rack and Pinion with Electric Power Steering 80-30104R",
+        "price" : 990,
+        "part_type" : "Rack and Pinion",
+        "sku" : "80-30104 R",
+        "brand" : "BAP",
+        "part_number" : "80-30104R",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d1042e199adcb5a038bc2b"
+    },
+    {
+        "title" : "Rack and Pinion with Electric Power Steering 80-30104R",
+        "price" : 990,
+        "part_type" : "Rack and Pinion",
+        "sku" : "80-30104 R",
+        "brand" : "BAP",
+        "part_number" : "80-30104R",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d1044c199adcb5a038bc2d"
+    },
+    {
+        "title" : "Rack and Pinion with Electric Power Steering 80-30104R",
+        "price" : 990,
+        "part_type" : "Rack and Pinion",
+        "sku" : "80-30104 R",
+        "brand" : "BAP",
+        "part_number" : "80-30104R",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d10470199adcb5a038bc2f"
+    },
+    {
+        "title" : "OEM / OES 60-04009NC",
+        "price" : 350,
+        "part_type" : "A/C Compressor",
+        "sku" : "60-04009 NC",
+        "brand" : "OEM / OES",
+        "part_number" : "60-04009NC",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d104c3199adcb5a038bc31"
+    },
+    {
+        "title" : "OEM / OES 60-04009NC",
+        "price" : 350,
+        "part_type" : "A/C Compressor",
+        "sku" : "60-04009 NC",
+        "brand" : "OEM / OES",
+        "part_number" : "60-04009NC",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d104c3199adcb5a038bc31"
+    },
+    {
+        "title" : "OEM / OES 60-04009NC",
+        "price" : 350,
+        "part_type" : "A/C Compressor",
+        "sku" : "60-04009 NC",
+        "brand" : "OEM / OES",
+        "part_number" : "60-04009NC",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d107b19eee62803dcdfde6"
+    },
+    {
+        "title" : "OEM / OES 60-04009NC",
+        "price" : 350,
+        "part_type" : "A/C Compressor",
+        "sku" : "60-04009 NC",
+        "brand" : "OEM / OES",
+        "part_number" : "60-04009NC",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d107d09eee62803dcdfde8"
+    },
+    {
+        "title" : "OEM / OES 60-04009NC",
+        "price" : 350,
+        "part_type" : "A/C Compressor",
+        "sku" : "60-04009 NC",
+        "brand" : "OEM / OES",
+        "part_number" : "60-04009NC",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d104f0199adcb5a038bc37"
+    },
+    {
+        "title" : "OEM / OES 60-04009NC",
+        "price" : 350,
+        "part_type" : "A/C Compressor",
+        "sku" : "60-04009 NC",
+        "brand" : "OEM / OES",
+        "part_number" : "60-04009NC",
+        "condition" : "New",
+        "warranty" : true,
+        "car" : "61d10516199adcb5a038bc39"
+    }
+]
