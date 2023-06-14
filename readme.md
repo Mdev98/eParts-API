@@ -1,4 +1,4 @@
-# Authentification API
+# eParts API
 
 > Backend API for eParts application, which is a e-commerce website that sells car's parts
 
